@@ -1,2 +1,2 @@
 # visionforge
-A deep learning project for computer vision tasks using PyTorch and OpenCV — featuring image classification, object detection, and real-time inference.
+A beginner-friendly space to practice and explore Python basics — includes small projects, scripts, and experiments.
